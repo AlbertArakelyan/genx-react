@@ -1,0 +1,24 @@
+{
+  "name": "genx-react",
+  "description": "CLI to generate React components (like Angular's ng generate). Supports TypeScript, Container pattern, and custom templates. Perfect for Next.js, Gatsby, and React apps.",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "bin": {
+    "react-genie": "./bin/cli.js"
+  },
+  "keywords": ["react", "cli", "component-generator", "scaffolding", "nextjs", "gatsby"],
+  "author": "Albert Arakelyan",
+  "license": "MIT",
+  "devDependencies": {
+    "inquirer": "^12.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertArakelyan/genx-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlbertArakelyan/genx-react/issues"
+  },
+  "homepage": "https://github.com/AlbertArakelyan/genx-react#readme"
+}
