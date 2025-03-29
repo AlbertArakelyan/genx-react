@@ -1,6 +1,6 @@
 {
   "name": "genx-react",
-  "description": "CLI to generate React components (like Angular's ng generate). Supports TypeScript, Container pattern, and custom templates. Perfect for Next.js, Gatsby, and React apps.",
+  "description": "CLI to generate React components (like Angular's ng generate). Supports TypeScript, Container pattern, and custom templates. Perfect for React and Next.js apps.",
   "version": "0.1.0",
   "private": false,
   "type": "module",
